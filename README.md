@@ -1,3 +1,2 @@
 # up_tradeoff
-The Uncertainty Perception Tradeoff 
-\newline Code coming soon!
+The Uncertainty Perception Tradeoff (Code coming soon!)
